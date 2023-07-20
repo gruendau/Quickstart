@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volki sein blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Volki sein blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 20 Jul 2023 21:29:35 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 20 Jul 2023 21:29:35 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Introduction Hallo Volker dies ist dein erster Hugo post.
+&amp;hellip; und weiter gehts im Text.</description>
+    </item>
+    
+  </channel>
+</rss>
