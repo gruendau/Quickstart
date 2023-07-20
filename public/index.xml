@@ -6,7 +6,18 @@
     <description>Recent content on Volki sein blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 20 Jul 2023 21:29:35 +0200</lastBuildDate><atom:link href="https://github.com/gruendau/Quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2023 23:09:18 +0200</lastBuildDate><atom:link href="https://github.com/gruendau/Quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swift_test</title>
+      <link>https://github.com/gruendau/Quickstart/posts/swift_test/</link>
+      <pubDate>Thu, 20 Jul 2023 23:09:18 +0200</pubDate>
+      
+      <guid>https://github.com/gruendau/Quickstart/posts/swift_test/</guid>
+      <description>home seiten a-z intro &amp;lt;&amp;ndash; hoch &amp;ndash;&amp;gt; runter home/swift/intro/variables
+Variable Variable sind Objekte zur Speicherung von Werten und/oder Funktionen, die im Programverlauf geändert werden können. Für die Deklarierung wird das Schlüsselwort &amp;lsquo;var&amp;rsquo; genutzt.
+var v1: String = &amp;#34;volker&amp;#34; var v2 = &amp;#34;volker&amp;#34; // Berechnete Variable [calculated property] var v3: String { &amp;#34;volker&amp;#34; } Links: buch Videos: home seiten a-z &amp;lt;-- hoch --&amp;gt; rauf</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://github.com/gruendau/Quickstart/posts/my-first-post/</link>
