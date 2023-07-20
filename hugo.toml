@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/gruendau/Quickstart/'
 languageCode = 'de-DE'
 title = 'Volki sein blog'
 theme = 'ananke'
