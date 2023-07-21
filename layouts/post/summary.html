@@ -1,4 +1,4 @@
-  <div class="mb3 pa4 {{ $.Param "text_color" | default "mid-gray" }} overflow-hidden">
+  <div class="mb3 pa4 {{ $.Param "text_color" | default "blue" }} overflow-hidden">
     {{ if .Date }}
       <div class="f6">
         {{ .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) }}
@@ -7,6 +7,8 @@
     <h1 class="f3 near-black">
       <a href="{{ .RelPermalink }}" class="link black dim">
         {{ .Title }}
+        {{ .Title }}
+        {{ .Date }}
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
