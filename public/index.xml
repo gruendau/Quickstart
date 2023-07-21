@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volki sein blog</title>
-    <link>/</link>
+    <link>https://gruendau.github.io/quickstart/</link>
     <description>Recent content on Volki sein blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gruendau.github.io/quickstart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Videos</title>
-      <link>/posts/videos/</link>
+      <link>https://gruendau.github.io/quickstart/posts/videos/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/videos/</guid>
+      <guid>https://gruendau.github.io/quickstart/posts/videos/</guid>
       <description>Videos über Hugo 01 Buy, Build, Host a Website for $12 Chris Stayte, 2018, 8 min
 02 Why Use A Static Site Generator Chris Stayte, 2018, 10 min
 03 Building A Website Using Hugo Chris Stayte, 2018, 35 min
@@ -23,10 +23,10 @@
     
     <item>
       <title>Swift_test</title>
-      <link>/posts/swift_test/</link>
+      <link>https://gruendau.github.io/quickstart/posts/swift_test/</link>
       <pubDate>Thu, 20 Jul 2023 23:09:18 +0200</pubDate>
       
-      <guid>/posts/swift_test/</guid>
+      <guid>https://gruendau.github.io/quickstart/posts/swift_test/</guid>
       <description>home seiten a-z intro &amp;lt;&amp;ndash; hoch &amp;ndash;&amp;gt; runter home/swift/intro/variables
 Variable Variable sind Objekte zur Speicherung von Werten und/oder Funktionen, die im Programverlauf geändert werden können. Für die Deklarierung wird das Schlüsselwort &amp;lsquo;var&amp;rsquo; genutzt. So ist es!
 var v1: String = &amp;#34;volker&amp;#34; var v2 = &amp;#34;volker&amp;#34; // Berechnete Variable [calculated property] var v3: String { &amp;#34;volker&amp;#34; } Links: buch Videos: home seiten a-z &amp;lt;-- hoch --&amp;gt; rauf</description>
@@ -34,10 +34,10 @@ var v1: String = &amp;#34;volker&amp;#34; var v2 = &amp;#34;volker&amp;#34; // B
     
     <item>
       <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://gruendau.github.io/quickstart/posts/my-first-post/</link>
       <pubDate>Thu, 20 Jul 2023 21:29:35 +0200</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://gruendau.github.io/quickstart/posts/my-first-post/</guid>
       <description>Introduction Hallo Volker dies ist dein erster Hugo post.
 &amp;hellip; und weiter gehts im Text.</description>
     </item>

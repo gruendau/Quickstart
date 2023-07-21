@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://gruendau.github.io/quickstart/'
 languageCode = 'de-DE'
 title = 'Volki sein blog'
 theme = 'ananke'
