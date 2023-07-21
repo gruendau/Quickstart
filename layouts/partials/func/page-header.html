@@ -1,25 +1,28 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-{{ if $featured_image }}
-  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <div class="bg-black-60">
-      {{ partial "site-navigation.html" . }}
-      <div class="tc-l pv6 ph3 ph4-ns">
-        {{ if not .Params.omit_header_text }}
-          <div class="f2 f1-l fw2 white-90 mb0 lh-title">{{ .Title | default .Site.Title }}</div>
-          {{ with .Params.description  }}
-            <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-              {{ . }}
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>
-    </div>
-  </header>
-{{ else }}
-  <header>
-    <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
-      {{ partial "site-navigation.html" . }}
-    </div>
-  </header>
-{{ end }}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2113.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{{ $featured_image := partial "func/GetFeaturedImage.html" . }} {{ if $featured_image }} {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}</span></p>
+<p class="p1"><span class="s1">{{ partial "site-navigation.html" . }}</span></p>
+<p class="p1"><span class="s1">{{ if not .Params.omit_header_text }}</span></p>
+<p class="p1"><span class="s1">{{ .Title | default .Site.Title }}</span></p>
+<p class="p1"><span class="s1">{{ .Title | default .Site.Title }}<br>
+{{ .Title | default .Site.Title }}</span></p>
+<p class="p1"><span class="s1">{{ with .Params.description }}</span></p>
+<p class="p1"><span class="s1">{{ . }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ end }} {{ end }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ else }}</span></p>
+<p class="p1"><span class="s1">{{ partial "site-navigation.html" . }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ end }}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
