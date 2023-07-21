@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volki sein blog</title>
-    <link>https://github.com/gruendau/quickstart/</link>
+    <link>/</link>
     <description>Recent content on Volki sein blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 20 Jul 2023 23:09:18 +0200</lastBuildDate><atom:link href="https://github.com/gruendau/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Videos</title>
+      <link>/posts/videos/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/videos/</guid>
+      <description>Videos über Hugo 01 Buy, Build, Host a Website for $12 Chris Stayte, 2018, 8 min 02 Why Use A Static Site Generator Chris Stayte, 2018, 10 min 03 Building A Website Using Hugo Chris Stayte, 2018, 35 min 04 Hosting Your Website With Github and Netlify Chris Stayte, 2018, 18 min 05 Purchasing A Domain (Google Domains) Chris Stayte, 2018, 8 min 06 Setup Custom Domain On Netlify Chris Stayte, 2018, 11 min 07 Netlify CMS Chris Stayte, 2018, 19 min 08 Updating Hugo on Netlify Chris Stayte, 2018, 5 min 09 Add A Form To Your Netlify Powered Website Chris Stayte, 2018, 25 min </description>
+    </item>
+    
     <item>
       <title>Swift_test</title>
-      <link>https://github.com/gruendau/quickstart/posts/swift_test/</link>
+      <link>/posts/swift_test/</link>
       <pubDate>Thu, 20 Jul 2023 23:09:18 +0200</pubDate>
       
-      <guid>https://github.com/gruendau/quickstart/posts/swift_test/</guid>
+      <guid>/posts/swift_test/</guid>
       <description>home seiten a-z intro &amp;lt;&amp;ndash; hoch &amp;ndash;&amp;gt; runter home/swift/intro/variables
 Variable Variable sind Objekte zur Speicherung von Werten und/oder Funktionen, die im Programverlauf geändert werden können. Für die Deklarierung wird das Schlüsselwort &amp;lsquo;var&amp;rsquo; genutzt. So ist es!
 var v1: String = &amp;#34;volker&amp;#34; var v2 = &amp;#34;volker&amp;#34; // Berechnete Variable [calculated property] var v3: String { &amp;#34;volker&amp;#34; } Links: buch Videos: home seiten a-z &amp;lt;-- hoch --&amp;gt; rauf</description>
@@ -20,10 +29,10 @@ var v1: String = &amp;#34;volker&amp;#34; var v2 = &amp;#34;volker&amp;#34; // B
     
     <item>
       <title>My First Post</title>
-      <link>https://github.com/gruendau/quickstart/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Thu, 20 Jul 2023 21:29:35 +0200</pubDate>
       
-      <guid>https://github.com/gruendau/quickstart/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Introduction Hallo Volker dies ist dein erster Hugo post.
 &amp;hellip; und weiter gehts im Text.</description>
     </item>

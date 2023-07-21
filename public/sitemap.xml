@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/gruendau/quickstart/posts/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/videos/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/swift_test/</loc>
     <lastmod>2023-07-20T23:09:18+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/gruendau/quickstart/posts/swift_test/</loc>
-    <lastmod>2023-07-20T23:09:18+02:00</lastmod>
-  </url><url>
-    <loc>https://github.com/gruendau/quickstart/</loc>
-    <lastmod>2023-07-20T23:09:18+02:00</lastmod>
-  </url><url>
-    <loc>https://github.com/gruendau/quickstart/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2023-07-20T21:29:35+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/gruendau/quickstart/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://github.com/gruendau/quickstart/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
